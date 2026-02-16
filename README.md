@@ -107,7 +107,7 @@ plt.plot(template_hue, template_saturation, marker='o', c='salmon', markersize=1
 ## Results
 
 ### Visualizations
-[Insert screenshots here]
+[mlpr-5-1.png]
 
 ### Key Findings
 The clustering successfully separated faces based on their Hue-Saturation values. K=3 clusters grouped faces with similar skin tones together. The centroids represent the average color characteristics of each cluster. The template image (Dr. Shashi Tharoor) was classified and its position in the feature space can be seen on the final scatter plot.
